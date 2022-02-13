@@ -3,6 +3,9 @@ This repository contains a software code to estimate the aspect related uncertai
 
 This code is distributed as a companion to the paper "The Effect of Aspect Changes on Near-Earth Asteroid Phase Curves", (link to be added). 
 
+The releases of this code are archived on zenodo.
+For the latest release please see:   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6062631.svg)](https://doi.org/10.5281/zenodo.6062631)
+
 # Compilation and running
 
 To compile the code, we provide a Makefile, so for unix systems with make and g++ installed, just clone the repository and run "make".
