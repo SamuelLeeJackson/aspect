@@ -1,5 +1,5 @@
 # aspect
-Code to estimate the aspect related uncertainty in individual near-Earth asteroid photometric phase curves.
+This repository contains a software code to estimate the aspect related uncertainty in individual near-Earth asteroid photometric phase curves.
 
 This code is distributed as a companion to the paper "The Effect of Aspect Changes on Near-Earth Asteroid Phase Curves", (link to be added). 
 
