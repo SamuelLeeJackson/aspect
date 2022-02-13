@@ -3,7 +3,7 @@
  * @author Samuel Lee Jackson (samuel.jackson@open.ac.uk), Ben Rozitis (ben.rozitis@open.ac.uk)
  * @brief Code to estimate the aspect related uncertainty in an individual asteroid phase curve
  * @version 0.1
- * @date 2021-10-25
+ * @date 2022-02-13
  * 
  * @copyright Copyright (c) 2021
  * 
