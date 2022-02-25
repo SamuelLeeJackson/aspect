@@ -35,4 +35,4 @@ If the light curve amplitude is unknown, provide a value of 0.
 
 The code is run as follows for (159402) 1999 AP10.
 
-    ./aspect 159402 0.4
+    ./aspect.sh 159402 0.4
