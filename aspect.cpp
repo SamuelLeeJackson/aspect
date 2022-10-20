@@ -27,7 +27,7 @@ const double Vzero = 3.631e-11;     // Zero point flux of V filter
 
 // Shape Input Parameters
 const int N = 24;
-const int latspacing = 180.0/N;
+const double latspacing = 180.0/N;
 const int ASTNUMVTX = (N*N)+2;
 const int ASTNUMFACE = 2*N*N;
 
@@ -206,7 +206,7 @@ void createglobalmodel(Asteroid &A) {
     // North pole vertex
 
     V->rtnpolarpos(0) = 90.0;
-    V->rtnpolarpos(0) = 0.0;
+    V->rtnpolarpos(1) = 0.0;
 
     // Northern hemisphere vertices
 
